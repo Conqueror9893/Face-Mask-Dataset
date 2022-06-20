@@ -1,6 +1,6 @@
 # train and val data
-train: ../Face-Mask-Dataset/images/train/
-val: ../Face-Mask-Dataset/images/val/
+train: ../Fask-Mask-Dataset/images/train/
+val: ../Fask-Mask-Dataset/images/val/
 
 # number of classes
 nc: 2
